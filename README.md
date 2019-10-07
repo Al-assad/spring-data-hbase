@@ -1,6 +1,6 @@
 # Spring-Data-Hbase
 
-spring-data-hadoop 项目 HBaseTemplate API 提取
+spring-data-hadoop 项目 HBaseTemplate API 提取，支持 HBase 2.x API
 
 <br>
 
