@@ -1,0 +1,5 @@
+spring.data.hbase.config:
+    hbase.zookeeper.quorum: hbase
+    hbase.zookeeper.property.clientPort: 2181
+    hbase.zookeeper.parent: /hbase
+    hbase.rootdir: hdfs://namenode:9000/hbase

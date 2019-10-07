@@ -7,7 +7,7 @@
     <groupId>site.assad</groupId>
     <artifactId>spring-data-hbase</artifactId>
     <version>1.0.0</version>
-    <name>spring-data-site.assad.spring.data.hbase</name>
+    <name>spring-data-site</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -41,7 +41,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
-<!--            <scope>test</scope>-->
+            <scope>test</scope>
             <exclusions>
                 <exclusion>
                     <groupId>org.springframework.boot</groupId>
